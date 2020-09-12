@@ -1,5 +1,4 @@
 import requests
-import concurrent.futures
 import sys
 
 imgsets = ['07','081216']
