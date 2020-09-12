@@ -1,4 +1,4 @@
-# ImgDown-thread
+# ImgDown
 
 This is a simple script to download images of amirkhan from a given url.
 
